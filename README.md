@@ -23,9 +23,9 @@ Guia de links úteis para desenvolvedores e designs.
 [Pizza de Dados (Data science)](https://podcast.pizzadedados.com)
 
 ## Utilidades
-[Criação de sliders com javascript](https://swiperjs.com/)
+[Swiper: Criação de sliders com javascript](https://swiperjs.com/)
 
-[Serviços gratuitos para desenvolvedores](https://free-for.dev/#/)
+[Free-for-dev: Serviços gratuitos para desenvolvedores](https://free-for.dev/#/)
 
 [Templates de bootstrap](https://colorlib.com/wp/templates/)
 
