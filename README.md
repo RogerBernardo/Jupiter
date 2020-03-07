@@ -1,7 +1,8 @@
 # Jupiter
 Guia de links úteis para desenvolvedores e designs. 
 
-## Sites e blogs bacanas de desenvolvimento
+## Google
+[Google para desenvolvedores](https://developers.google.com/products)
 
 
 ## Ideias para projetos
