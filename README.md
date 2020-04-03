@@ -18,6 +18,8 @@ Guia de links úteis para desenvolvedores e designs.
 ## Design
 [Material Design](https://material.io/design/)
 
+[Awwwards](https://www.awwwards.com/)
+
 ## Podcast 
 [FalaDev (Rocketseat)](https://www.youtube.com/playlist?list=PL85ITvJ7FLoivA_1YoBrRJbNWajIoR7Os)
 
@@ -43,4 +45,8 @@ Guia de links úteis para desenvolvedores e designs.
 [Calcular contraste](https://contrast-ratio.com/#%23FAFAFA-on-%238833ff)
 
 [Status HTTP ilustrativos](https://httpstatusdogs.com)
+
+[Neumorphism.io Generate Soft-UI CSS code](https://neumorphism.io/#55b9f3)
+
+[Box shadow css generator](https://www.cssmatic.com/box-shadow)
 
