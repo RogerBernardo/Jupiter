@@ -255,9 +255,10 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 ## API
 [CEP](https://viacep.com.br/) - Consulte CEP´s de todo o Brasil.
 
+[PortalConecta](https://catalogo.conecta.gov.br/store/) -  API´s públicas do governo federal brasileiro
+
 [NASA](https://api.nasa.gov/#browseAPI) - API´s públicas da NASA.
 
-[Portal Conecta](https://catalogo.conecta.gov.br/store/) -  API´s públicas do governo federal brasileiro
 ------------
 
 ### Referências:
