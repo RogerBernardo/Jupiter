@@ -121,9 +121,9 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Free Bootstrap themes](https://startbootstrap.com/) - Temas gratuitos do framework
 
-## :fa-youtube: Canais do Youtube
+## :movie_camera: Canais do Youtube
 
-## :fa-volume-up: Podcasts 
+## :sound: Podcasts 
 [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 
 [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
