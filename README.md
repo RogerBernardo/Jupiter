@@ -1,35 +1,31 @@
-# :milky_way:  Jupiter
+# :milky_way:  Júpiter
 Um guia de ajuda para desenvolvedores.
 Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. Fique a vontade para copiar o conteúdo também : )
 
-## Ferramentas
-[Swiper: Criação de sliders com javascript](https://swiperjs.com/)
+## :hammer: Ferramentas
+[Swiper](https://swiperjs.com/) -  Criação de sliders com javascript
 
-[Free-for-dev: Serviços gratuitos para desenvolvedores](https://free-for.dev/#/)
+[Free-for-dev](https://free-for.dev/#/) - Serviços gratuitos para desenvolvedores
 
-[Templates de bootstrap](https://colorlib.com/wp/templates/)
-
-[Gerador de dados](https://www.4devs.com.br/)
+[Gerador de dados](https://www.4devs.com.br/) - Gerador de dados válidos para testar em aplicações
 
 [SpeedTest de sites](https://developers.google.com/speed/pagespeed/insights/) - Tenha insights de como melhorar a velocidade do seu site
 
-[Google Developers](https://developers.google.com/products/?hl=pt-BR)
+[Google Developers](https://developers.google.com/products/?hl=pt-BR) - Produtos do Google para devs
 
-[Google para desenvolvedores](https://developers.google.com/products)
+[Spring Initializr](https://start.spring.io/) - Inicializador de Spring Boot
 
-[Inicializador de Spring](https://start.spring.io/)
+[Validação de CSS](http://jigsaw.w3.org/css-validator/) - Verifique seu CSS
 
-[Validação de CSS](http://jigsaw.w3.org/css-validator/)
+[Validação de HTML](https://validator.w3.org/#validate_by_upload) - Verifique seu HTML
 
-[Validação de HTML](https://validator.w3.org/#validate_by_upload)
+[Calcular contraste](https://contrast-ratio.com/#%23FAFAFA-on-%238833ff) - Cálculo de contraste de cores
 
-[Calcular contraste](https://contrast-ratio.com/#%23FAFAFA-on-%238833ff)
+[Status HTTP ilustrativos](https://httpstatusdogs.com) - Aprenda os códigos http de forma divertida
 
-[Status HTTP ilustrativos](https://httpstatusdogs.com)
+[Neumorphism.io](https://neumorphism.io/#55b9f3) - Gerador de código para design Neumorphism
 
-[Neumorphism.io Generate Soft-UI CSS code](https://neumorphism.io/#55b9f3)
-
-[Box shadow css generator](https://www.cssmatic.com/box-shadow)
+[Box shadow generator](https://www.cssmatic.com/box-shadow) - Gerador de sombras em CSS
 
 [Gerenciador e cofre de senhas](https://www.lastpass.com/pt) - Guarde todas as suas senhas em um local seguro
 
@@ -45,7 +41,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [JSON to any](https://app.quicktype.io/) - Converta JSON para qualquer linguagem
 
-## Banco de imagens gratuitas
+## :camera: Banco de imagens gratuitas
 [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 
 [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
@@ -76,17 +72,17 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
 
-## Ideias para projetos
-[Desafios de front-end](https://github.com/felipefialho/frontend-challenges?fbclid=IwAR3-RZc4bFPl7dXi5T97I65-26Wyi6wi_syGPR_LrrF_QEry1bYqAu1xgyM)
+## :bulb: Ideias para projetos
+[Challenges](https://github.com/felipefialho/frontend-challenges?fbclid=IwAR3-RZc4bFPl7dXi5T97I65-26Wyi6wi_syGPR_LrrF_QEry1bYqAu1xgyM) - Desafios para desenvolvedores front-end
 
-[Ideias para desenvolvimento](https://github.com/florinpop17/app-ideas)
+[App Ideas](https://github.com/florinpop17/app-ideas) - Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação
 
-## Documentações
+## :page_facing_up: Documentações
 [Github](https://help.github.com/pt/github/getting-started-with-github)
 
 [ReactJs](https://pt-br.reactjs.org)
 
-## Design
+## :art: Design
 [Material Design](https://material.io/design/)
 
 [Awwwards](https://www.awwwards.com/) - Excelente comunidade para divulgar e encontrar layouts de websites.
@@ -94,6 +90,8 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 [Removedor de fundos](https://www.remove.bg/pt-br)
 
 [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
+
+[Templates de bootstrap](https://colorlib.com/wp/templates/)
 
 [Canva](https://www.canva.com/) - Ferramentas de design online
 
@@ -123,7 +121,9 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Free Bootstrap themes](https://startbootstrap.com/) - Temas gratuitos do framework
 
-## Podcasts 
+## :fa-youtube: Canais do Youtube
+
+## :fa-volume-up: Podcasts 
 [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 
 [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
@@ -154,7 +154,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
 
-## Repositórios incríveis do Github
+## :tada: Repositórios incríveis do Github
 [Lista de emojis do github](https://gist.github.com/rxaviers/7360908)
 
 [Mais links úteis](https://github.com/OfficialMarinho/Links-uteis) - Peguei alguns links nesse repositório também :)
@@ -173,7 +173,9 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Apis públicas para desenvolvimento](https://github.com/public-apis/public-apis)
 
-## Pentest
+[Bests websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Sites que todo desenvolvedor deveria visitar
+
+## :closed_lock_with_key: Pentest
 [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 [NMap](https://nmap.org/) - Scanner de portas de rede
@@ -184,7 +186,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 
-## IDE Cloud
+## :cloud: IDE Cloud
 [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 
 [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -201,7 +203,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 
-## Biblioteca de ícones
+## :art: Biblioteca de ícones
 
 [Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
 
@@ -211,7 +213,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
 
-## Hosting
+## :hotel: Hosting
 [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 
 [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
@@ -252,7 +254,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
 
-## API
+## :stars: API
 [CEP](https://viacep.com.br/) - Consulte CEP´s de todo o Brasil.
 
 [PortalConecta](https://catalogo.conecta.gov.br/store/) -  API´s públicas do governo federal brasileiro
