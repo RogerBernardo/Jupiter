@@ -5,6 +5,8 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 ## :hammer: Ferramentas
 [Swiper](https://swiperjs.com/) -  Criação de sliders com javascript
 
+[Regex Tester](https://regex101.com/) - Teste suas soluções de regex aqui 
+
 [Free-for-dev](https://free-for.dev/#/) - Serviços gratuitos para desenvolvedores
 
 [Gerador de dados](https://www.4devs.com.br/) - Gerador de dados válidos para testar em aplicações
