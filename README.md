@@ -261,6 +261,8 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [NASA](https://api.nasa.gov/#browseAPI) - API´s públicas da NASA.
 
+[IBGE](https://servicodados.ibge.gov.br/api/docs) - API de serviço de dados do IBGE
+
 ------------
 
 ### Referências:
