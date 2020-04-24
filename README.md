@@ -265,6 +265,39 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [IBGE](https://servicodados.ibge.gov.br/api/docs) - API de serviço de dados do IBGE
 
+
+## :newspaper: Sites e blogs bacanas
+[Ninja do Excel](https://ninjadoexcel.com.br/)
+
+[Origamid - O guia do flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
+
+[Tableless](https://tableless.com.br/)
+
+[Tudo Celular](https://www.tudocelular.com/)
+
+[Blog da Caelum](https://blog.caelum.com.br/)
+
+[InfoQ](https://www.infoq.com/br/)
+
+[Blog da Locaweb](http://blog.locaweb.com.br/)
+
+[UpInside](https://www.upinside.com.br/blog)
+
+[Maujor](http://www.maujor.com/)
+
+[iMasters](https://imasters.com.br/)
+
+[Devmedia](http://www.devmedia.com.br/)
+
+[Asoluções Web](https://www.asolucoesweb.com.br/)
+
+[Curso em video](https://www.cursoemvideo.com/)
+
+[Chief of Design](https://www.chiefofdesign.com.br/)
+
+[Desenvolvimento para Web](https://desenvolvimentoparaweb.com/)
+
+[Canal do wordpres](https://www.canalwp.com/)
 ------------
 
 ### Referências:
