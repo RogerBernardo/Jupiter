@@ -1,4 +1,4 @@
-# :milky_way:  Júpiter
+# Atena
 Um guia de ajuda para desenvolvedores.
 Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. Fique a vontade para copiar o conteúdo também : )
 
