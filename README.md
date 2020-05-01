@@ -1,8 +1,9 @@
 # Atena
-Um guia de ajuda para desenvolvedores.
-Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. Fique a vontade para copiar o conteúdo também : )
+> Na mitologia grega, Atena, também conhecida como Palas-Atena, era a deusa da sabedoria, da guerra, das artes, da estratégia e da justiça. 
 
-## :hammer: Ferramentas
+Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto conteúdo que pode ser útil à inúmeras pessoas. Sinta-se a vontade para contribuir caso queira que esse projeto cresça ainda mais. 
+
+## Ferramentas
 [Swiper](https://swiperjs.com/) -  Criação de sliders com javascript
 
 [Regex Tester](https://regex101.com/) - Teste suas soluções de regex aqui 
@@ -43,7 +44,40 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [JSON to any](https://app.quicktype.io/) - Converta JSON para qualquer linguagem
 
-## :camera: Banco de imagens gratuitas
+[Aprenda sobre qualquer coisa](https://learn-anything.xyz/)
+
+[Compilador de C online](https://www.onlinegdb.com/online_c_compiler)
+
+[Gerador de nomes para projetos e empresas](http://www.naminum.com/)
+
+[Gerador de imagens HUE-BR](http://lorempixel.com.br/)
+
+[Animações em CSS](https://daneden.github.io/animate.css/)
+
+[Efeitos em CSS](http://ianlunn.github.io/Hover/)
+
+[Anime qualquer coisa com javascript](https://animejs.com/)
+
+[Email por 10 min](https://10minutemail.com/?lang=pt_BR)
+
+[Efeitos de CSS](https://emilkowalski.github.io/css-effects-snippets/)
+
+[Gerador de clippy para css](https://bennettfeely.com/clippy/)
+
+## Ideias para projetos
+[Challenges](https://github.com/felipefialho/frontend-challenges?fbclid=IwAR3-RZc4bFPl7dXi5T97I65-26Wyi6wi_syGPR_LrrF_QEry1bYqAu1xgyM) - Desafios para desenvolvedores front-end
+
+[App Ideas](https://github.com/florinpop17/app-ideas) - Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação
+
+[Ideias de APP](https://www.reddit.com/r/AppIdeas/)
+
+[1000 ideias de APPs](https://github.com/vicky002/1000_Projects)
+
+[Lista de ideias de projetos](https://github.com/karan/Projects)
+
+[Mega lista de ideias](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+
+## Banco de imagens gratuitas
 [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
 
 [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
@@ -65,26 +99,8 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
- 
-[FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
 
-[unDraw](https://undraw.co/) - Ilustrações livres para usar
-
-[Icons8](https://icons8.com.br/) - Ícones em diversos estilos
-
-[DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
-
-## :bulb: Ideias para projetos
-[Challenges](https://github.com/felipefialho/frontend-challenges?fbclid=IwAR3-RZc4bFPl7dXi5T97I65-26Wyi6wi_syGPR_LrrF_QEry1bYqAu1xgyM) - Desafios para desenvolvedores front-end
-
-[App Ideas](https://github.com/florinpop17/app-ideas) - Uma coleção de idéias de aplicativos que podem ser usadas para melhorar suas habilidades de codificação
-
-## :page_facing_up: Documentações
-[Github](https://help.github.com/pt/github/getting-started-with-github)
-
-[ReactJs](https://pt-br.reactjs.org)
-
-## :art: Design
+## UI, UX, Design
 [Material Design](https://material.io/design/)
 
 [Awwwards](https://www.awwwards.com/) - Excelente comunidade para divulgar e encontrar layouts de websites.
@@ -123,9 +139,35 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Free Bootstrap themes](https://startbootstrap.com/) - Temas gratuitos do framework
 
-## :movie_camera: Canais do Youtube
+[Blog de UX UI](https://uxmovement.com/)
 
-## :sound: Podcasts 
+## Ícones e Ilustrações
+
+[Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
+
+[LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
+
+[Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
+
+[Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
+
+[FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
+
+[unDraw](https://undraw.co/) - Ilustrações livres para usar
+
+[Icons8](https://icons8.com.br/) - Ícones em diversos estilos
+
+[DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
+
+[SVG Porn](https://svgporn.com/)
+
+[Icones for everything](https://thenounproject.com/)
+
+[Monte ilustrações de humanóides](https://www.humaaans.com/)
+
+## Canais do Youtube
+
+##  Podcasts 
 [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 
 [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
@@ -156,7 +198,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
 
-## :tada: Repositórios incríveis do Github
+## Repositórios incríveis do Github
 [Lista de emojis do github](https://gist.github.com/rxaviers/7360908)
 
 [Mais links úteis](https://github.com/OfficialMarinho/Links-uteis) - Peguei alguns links nesse repositório também :)
@@ -177,7 +219,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Bests websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Sites que todo desenvolvedor deveria visitar
 
-## :closed_lock_with_key: Pentest
+## Pentest
 [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
 
 [NMap](https://nmap.org/) - Scanner de portas de rede
@@ -188,7 +230,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Beef-Project](https://beefproject.com/) - Framework de exploração de browser
 
-## :cloud: IDE Cloud
+## IDE Cloud
 [Gitpod](https://www.gitpod.io/) - IDE online para GitHub
 
 [CodeAnywhere](https://codeanywhere.com/) - Plataforma de codificação na nuvem
@@ -205,17 +247,8 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Coding Ground](https://www.tutorialspoint.com/codingground.htm) - Várias plataformas de codificação online
 
-## :art: Biblioteca de ícones
 
-[Streamline](https://app.streamlineicons.com) - Biblioteca repleta de ícones para ser usado
-
-[LineIcons](https://lineicons.com/icons) - Mais de 2000 ícone no estilo line icons
-
-[Iconfonts](https://icofont.com) - Mais de 2100 ícones gratuitos para incrementar seus designs criativos 
-
-[Font Awesome](https://fontawesome.com) - Obtenha ícones vetoriais e logotipos sociais em seu site com o Font Awesome
-
-## :hotel: Hosting
+## Hosting
 [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
 
 [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
@@ -256,7 +289,9 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 
 [Heroku](https://www.heroku.com/) -  Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
 
-## :stars: API
+[Hospedagem de Site Grátis](https://br.000webhost.com/)
+
+## API
 [CEP](https://viacep.com.br/) - Consulte CEP´s de todo o Brasil.
 
 [PortalConecta](https://catalogo.conecta.gov.br/store/) -  API´s públicas do governo federal brasileiro
@@ -266,7 +301,7 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 [IBGE](https://servicodados.ibge.gov.br/api/docs) - API de serviço de dados do IBGE
 
 
-## :newspaper: Sites e blogs bacanas
+## Sites e blogs bacanas
 [Ninja do Excel](https://ninjadoexcel.com.br/)
 
 [Origamid - O guia do flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
@@ -298,7 +333,10 @@ Aceita-se pull requests para engrandecer ainda mais o conteúdo aqui presente. F
 [Desenvolvimento para Web](https://desenvolvimentoparaweb.com/)
 
 [Canal do wordpres](https://www.canalwp.com/)
-------------
+
+[Sites incríveis que todo programador deve visitar](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+[Coisas incríveis pelo github](https://getawesomeness.herokuapp.com/)
 
 ### Referências:
 [Repositório do github com centenas de links](https://github.com/OfficialMarinho/Links-uteis) - Acesso 10/04/2020
