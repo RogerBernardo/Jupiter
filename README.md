@@ -1,12 +1,18 @@
 # Atena
 > Na mitologia grega, Atena, também conhecida como Palas-Atena, era a deusa da sabedoria, da guerra, das artes, da estratégia e da justiça. 
 
-Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto conteúdo que pode ser útil à inúmeras pessoas. Sinta-se a vontade para contribuir caso queira que esse projeto cresça ainda mais. 
-
 ## Ferramentas
-- [Swiper](https://swiperjs.com/) -  Criação de sliders com javascript
+- [Padrão de commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
-- [Regex Tester](https://regex101.com/) - Teste suas soluções de regex aqui 
+- [Carbono](carbon.now.sh) - Crie fotos bonitas do seu código
+
+- [Padrões de código para javascript](https://standardjs.com/)
+
+- [Excalidraw](https://excalidraw.com/) - Crie rascunhos de anotações e desenhos
+
+- [Tinkercad](www.tinkercad.com) - Crie circuitos e projetos 3D
+
+- [Design partner](https://refactoring.guru/design-patterns) - Aprenda sobre padrões de projetos de maneira simples
 
 - [Free-for-dev](https://free-for.dev/#/) - Serviços gratuitos para desenvolvedores
 
@@ -18,17 +24,7 @@ Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto con
 
 - [Spring Initializr](https://start.spring.io/) - Inicializador de Spring Boot
 
-- [Validação de CSS](http://jigsaw.w3.org/css-validator/) - Verifique seu CSS
-
-- [Validação de HTML](https://validator.w3.org/#validate_by_upload) - Verifique seu HTML
-
-- [Calcular contraste](https://contrast-ratio.com/#%23FAFAFA-on-%238833ff) - Cálculo de contraste de cores
-
 - [Status HTTP ilustrativos](https://httpstatusdogs.com) - Aprenda os códigos http de forma divertida
-
-- [Neumorphism.io](https://neumorphism.io/#55b9f3) - Gerador de código para design Neumorphism
-
-- [Box shadow generator](https://www.cssmatic.com/box-shadow) - Gerador de sombras em CSS
 
 - [Gerenciador e cofre de senhas](https://www.lastpass.com/pt) - Guarde todas as suas senhas em um local seguro
 
@@ -44,25 +40,52 @@ Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto con
 
 - [JSON to any](https://app.quicktype.io/) - Converta JSON para qualquer linguagem
 
-- [Aprenda sobre qualquer coisa](https://learn-anything.xyz/)
+- [Learn-anything](https://learn-anything.xyz/) - Aprenda a criar qualquer coisa
 
 - [Compilador de C online](https://www.onlinegdb.com/online_c_compiler)
 
-- [Gerador de nomes para projetos e empresas](http://www.naminum.com/)
+- [Naminum](http://www.naminum.com/) - Gerador de nomes para projetos e empresas
 
-- [Gerador de imagens HUE-BR](http://lorempixel.com.br/)
+- [Email por 10 min](https://10minutemail.com/?lang=pt_BR)
+
+- [CloudFlare](https://www.cloudflare.com/pt-br/) - CDN grátis
+
+- [Mockaroo](https://www.mockaroo.com/) - Gerador de dados para testes
+
+- [generatedata](http://www.generatedata.com/) - Gerador de dados para testes
+
+- [Lucidchart](https://www.lucidchart.com/pages/pt) - Criação de fluxogramas online
+
+## Ferramentas para Front End
+
+- [Swiper](https://swiperjs.com/) -  Criação de sliders com javascript
+
+- [Regex Tester](https://regex101.com/) - Teste suas soluções de regex aqui 
+
+- [Lorempixel](http://lorempixel.com.br/) - Gerador de imagens
+
+- [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
+
+- [Efeitos de CSS](https://emilkowalski.github.io/css-effects-snippets/)
 
 - [Animações em CSS](https://daneden.github.io/animate.css/)
 
 - [Efeitos em CSS](http://ianlunn.github.io/Hover/)
 
-- [Anime qualquer coisa com javascript](https://animejs.com/)
-
-- [Email por 10 min](https://10minutemail.com/?lang=pt_BR)
-
-- [Efeitos de CSS](https://emilkowalski.github.io/css-effects-snippets/)
+- [Animejs](https://animejs.com/) - Anime qualquer coisa com javascript
 
 - [Gerador de clippy para css](https://bennettfeely.com/clippy/)
+
+- [Neumorphism.io](https://neumorphism.io/#55b9f3) - Gerador de código para design Neumorphism
+
+- [Box shadow generator](https://www.cssmatic.com/box-shadow) - Gerador de sombras em CSS
+
+- [Validação de CSS](http://jigsaw.w3.org/css-validator/) - Verifique seu CSS
+
+- [Validação de HTML](https://validator.w3.org/#validate_by_upload) - Verifique seu HTML
+
+- [Calcular contraste](https://contrast-ratio.com/#%23FAFAFA-on-%238833ff) - Cálculo de contraste de cores
+
 
 ## Ideias para projetos
 - [Challenges](https://github.com/felipefialho/frontend-challenges?fbclid=IwAR3-RZc4bFPl7dXi5T97I65-26Wyi6wi_syGPR_LrrF_QEry1bYqAu1xgyM) - Desafios para desenvolvedores front-end
@@ -139,7 +162,7 @@ Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto con
 
 - [Free Bootstrap themes](https://startbootstrap.com/) - Temas gratuitos do framework
 
-- [Blog de UX UI](https://uxmovement.com/)
+- [Uxmovement](https://uxmovement.com/) - Blog de UX UI
 
 ## Ícones e Ilustrações
 
@@ -165,7 +188,61 @@ Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto con
 
 - [Monte ilustrações de humanóides](https://www.humaaans.com/)
 
-## Canais do Youtube
+## Freebies
+- [Freebiesbug](https://freebiesbug.com/) - Site com arquivos digitais gratuitos
+
+- [ThemeForest WordPress Freebies](https://themeforest.net/free/wordpress-themes) - 3 temas premium gratuitos do WordPress mensalmente
+
+- [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+
+- [Codester Freebies](https://www.codester.com/free/) - Temas e projetos de codificações grátis semanalmente
+
+- [Freebbble](http://freebbble.com/) - Freebies do Dribbble
+
+- [FundleBundle](https://www.fundlebundle.net/freebies) - Freebies gratuitos
+
+- [365 PSD](https://pt.365psd.com/) - Itens gratuitos o ano inteiro
+
+- [GreenSock](https://greensock.com/examples-showcases) - Showcase de aplicações inspiradoras
+
+- [HTML5 UP](https://html5up.net/) - Templates gratuitos
+
+- [ShareBootstrap](https://sharebootstrap.com/) - Templates Bootstrap gratuitos
+
+- [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
+
+
+## Gerenciamento de projetos
+- [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+
+- [Jira](https://www.atlassian.com/software/jira) - Gerenciador de projetos e monitoramento de tarefas
+
+- [Slack](https://slack.com/) - Gerenciamento de projetos com equipes
+
+- [Asana](https://asana.com/pt) - Gerenciamento de trabalho
+
+- [Taiga](https://taiga.io/) - Controle de projetos com equipes através de quadros
+
+- [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
+
+- [Google Keep](https://keep.google.com/) - Notas autoadesivas na nuvem
+
+- [Evernote](https://evernote.com/intl/pt-br) - Notas autoadesivas na nuvem
+
+- [Notion](https://www.notion.so/) - Notas autoadesivas na nuvem e gerenciamento de projetos online
+
+- [Pipefy](https://www.pipefy.com/) - Gerenciador de projetos (PMS)
+
+- [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
+
+- [Draw.io](https://www.draw.io/) - Desenvolva mapas mentais incríveis
+
+- [lucidchart](https://lucidchart.com) - Documentação e gerenciamento de tarefas em equipe
+
+- [Protectedtext](https://www.protectedtext.com/) - Abas de anotações criptografadas sem necessidade de cadastro
+
+- [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
+
 
 ##  Podcasts 
 - [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
@@ -300,6 +377,8 @@ Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto con
 
 - [IBGE](https://servicodados.ibge.gov.br/api/docs) - API de serviço de dados do IBGE
 
+- [API da Bíblia](https://bibleapi.co/) - Extraia dados da Bíblia Sagrada
+
 
 ## Sites e blogs bacanas
 - [Ninja do Excel](https://ninjadoexcel.com.br/)
@@ -338,7 +417,23 @@ Este repositório tem como nome a deusa da sabedoria, pois aqui há um vasto con
 
 - [Coisas incríveis pelo github](https://getawesomeness.herokuapp.com/)
 
-### Referências:
-- [Repositório do github com centenas de links](https://github.com/OfficialMarinho/Links-uteis) - Acesso 10/04/2020
+- [Neil patel](https://neilpatel.com/br/) - Aprenda técnicas de SEO e marketing digital
 
-- [50 Recursos de Referências essenciais para Designers](https://www.des1gnon.com/2014/02/50-recursos-de-referencias-essenciais-para-designers/) - Acesso em 10/04/2020
+## Comunidades
+- [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
+
+- [Dev.to](https://dev.to/) - Rede social para desenvolvedores
+
+- [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
+
+- [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
+
+- [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
+
+- [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
+
+- [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
+
+- [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
+
+- [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
