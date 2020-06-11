@@ -243,6 +243,26 @@
 
 - [Dontpad](http://dontpad.com/) - Abas de anotações sem necessidade de cadastro
 
+## Canais do youtube
+- [Fábio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+
+- [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+
+- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+
+- [DevMedia](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
+
+- [Curso em video](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+
+- [Felipe Fontoura - Canal Dev Samurai](https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw)
+
+- [Código Fonte TV](https://www.youtube.com/channel/UCFuIUoyHB12qpYa8Jpxoxow)
+
+- [HxTutors](https://www.youtube.com/channel/UC-KV2g7wDXFPLqEFan4oeBQ)
+
+- [Node Studio Treinamentos](https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw)
+
+- [Origamid](https://www.youtube.com/channel/UCRe4a2l_hRvROUU02_0YCmQ)
 
 ##  Podcasts 
 - [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
@@ -275,7 +295,7 @@
 
 - [FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW) - Podcast da Rocketseat sobre desenvolvimento
 
-## Repositórios incríveis do Github
+## Repositórios do Github
 - [Lista de emojis do github](https://gist.github.com/rxaviers/7360908)
 
 - [Mais links úteis](https://github.com/OfficialMarinho/Links-uteis) - Peguei alguns links nesse repositório também :)
@@ -295,6 +315,36 @@
 - [Apis públicas para desenvolvimento](https://github.com/public-apis/public-apis)
 
 - [Bests websites](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - Sites que todo desenvolvedor deveria visitar
+
+- [Aplicativo de viagem](https://github.com/JideGuru/FlutterTravel) - Aplicação de viagem feito em flutter
+
+- [Melhores designs em flutter](https://github.com/mitesh77/Best-Flutter-UI-Templates) - Faça bonitos layouts em flutter
+
+- [Flutter ui Challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - Trying to replicate various app UIs in flutter
+
+- [Telas em Flutter](https://github.com/samarthagarwal/FlutterScreens) - Lista de telas e componentes feitas em flutter
+
+- [Desafios para treinar programação](https://github.com/cybers-athletic/Desafios) - Instruções iniciais e desafios do grupo Cybers Athletic
+
+- [GET](https://github.com/jonataslaw/get) - Get é uma biblioteca poderosa e extra-leve para Flutter. Ela combina um gerenciador de estado de alta performance, injeção de dependência inteligente e gerenciamento de rotas de uma forma rápida e prática.
+
+- [Nodemailer](https://github.com/nodemailer/nodemailer) - Envie emails com o node.js
+
+- [DI.WE.H](https://github.com/T635/DI.WE.H) - Repositório com conteúdo sobre web hacking em português
+
+- [flutter-tutorials](https://github.com/FilledStacks/flutter-tutorials) - The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.
+
+- [VS-Code-Produtividade-Infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Aprenda a usar o vscode com mais agilidade
+
+- [Flutter example apps](https://github.com/iampawan/FlutterExampleApps) - [Example APPS] Basic Flutter apps, for flutter devs.
+
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
+
+- [Flutter ui kit](https://github.com/iampawan/Flutter-UI-Kit) - Componentes prontos para usar em flutter
+
+- [Flutter playground](https://github.com/ibhavikmakwana/FlutterPlayground) - Playground app for Flutter
+
+- [awesome - Rocketseat](https://github.com/Rocketseat/awesome) - Conteúdo gratuito da Rocketseat
 
 ## Pentest
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
@@ -380,7 +430,7 @@
 - [API da Bíblia](https://bibleapi.co/) - Extraia dados da Bíblia Sagrada
 
 
-## Sites e blogs bacanas
+## Sites e blogs
 - [Ninja do Excel](https://ninjadoexcel.com.br/)
 
 - [Origamid - O guia do flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
@@ -418,22 +468,3 @@
 - [Coisas incríveis pelo github](https://getawesomeness.herokuapp.com/)
 
 - [Neil patel](https://neilpatel.com/br/) - Aprenda técnicas de SEO e marketing digital
-
-## Comunidades
-- [Grupos no Telegram](http://listatelegram.github.io/) - Lista de grupos de tecnologia no Telegram
-
-- [Dev.to](https://dev.to/) - Rede social para desenvolvedores
-
-- [GitHub Community Forum](https://github.community/) - Comunidade de desenvolvedores do GitHub
-
-- [Tecnogrupo](https://www.facebook.com/groups/102474963422805/) - Grupo de Tecnologia do Tecnoblog
-
-- [APDA](https://www.facebook.com/groups/osadpa/) - Associação de Programadores Depressivos Anônimos
-
-- [Comunidade Rocketseat](https://discordapp.com/invite/gCRAFhc) - Comunidade Rocketseat no Discord
-
-- [Comunidade ColabCode](https://discord.gg/YeeEAYj) - Comunidade ColabCode no Discord 
-
-- [Comunidade Código Falado](https://discord.gg/3y4X9pm) - Comunidade do Código Falado no Discord
-
-- [Comunidade PerifaCode](https://perifacode.com/) - Comunidade PerifaCode
