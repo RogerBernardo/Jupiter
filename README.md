@@ -130,6 +130,8 @@
 
 - [Awwwards](https://www.awwwards.com/) - Excelente comunidade para divulgar e encontrar layouts de websites.
 
+- [Landbook](https://land-book.com/) - Excelente fonte de inspiração para criação de layouts
+
 - [Removedor de fundos](https://www.remove.bg/pt-br)
 
 - [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
