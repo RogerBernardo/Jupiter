@@ -2,6 +2,8 @@
 > Na mitologia grega, Atena, também conhecida como Palas-Atena, era a deusa da sabedoria, da guerra, das artes, da estratégia e da justiça. 
 
 ## Ferramentas
+- [Libgen](https://libgen.is/ ) - Faça o download de diversos livros
+
 - [Padrão de commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 - [Carbono](carbon.now.sh) - Crie fotos bonitas do seu código
