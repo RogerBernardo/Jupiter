@@ -64,6 +64,8 @@
 
 - [Regex Tester](https://regex101.com/) - Teste suas soluções de regex aqui 
 
+- [RegExr](https://regexr.com/) - Testes unitários de soluções regex
+
 - [Lorempixel](http://lorempixel.com.br/) - Gerador de imagens
 
 - [React Hook Form](https://react-hook-form.com/) - Valide seus formulários de projetos que utilizam React ou React Native
@@ -88,6 +90,7 @@
 
 - [Calcular contraste](https://contrast-ratio.com/#%23FAFAFA-on-%238833ff) - Cálculo de contraste de cores
 
+- [Contador de caracteres](https://www.lettercount.com/) - Conta todos caracteres de uma determinada string
 
 ## Ideias para projetos
 - [Challenges](https://github.com/felipefialho/frontend-challenges?fbclid=IwAR3-RZc4bFPl7dXi5T97I65-26Wyi6wi_syGPR_LrrF_QEry1bYqAu1xgyM) - Desafios para desenvolvedores front-end
@@ -215,6 +218,7 @@
 
 - [1001 Free Fonts](https://www.1001freefonts.com/) - 1001 Fontes gratuitas
 
+- [itch.io](https://itch.io/game-assets/free) - Recursos gratuitos para jogos
 
 ## Gerenciamento de projetos
 - [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
@@ -268,7 +272,11 @@
 
 - [Origamid](https://www.youtube.com/channel/UCRe4a2l_hRvROUU02_0YCmQ)
 
-##  Podcasts 
+- [Cod3r Cursos](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ)
+
+- [The Coding Train](https://www.youtube.com/c/TheCodingTrain)
+
+##  Podcasts
 - [NerdCast](https://jovemnerd.com.br/nerdcast/) - Tecnologia, ciência e universo POP
 
 - [Hipsters.tech](https://hipsters.tech/) - Desenvolvimento de aplicações, design digital, startups e tecnologias em geral
@@ -349,6 +357,8 @@
 - [Flutter playground](https://github.com/ibhavikmakwana/FlutterPlayground) - Playground app for Flutter
 
 - [awesome - Rocketseat](https://github.com/Rocketseat/awesome) - Conteúdo gratuito da Rocketseat
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Série de livros gratuitos sobre JavaScript
 
 ## Pentest
 - [SQLMap](http://sqlmap.org/) - Ferramenta de teste de penetração open source que automatiza injeção de SQL
@@ -472,3 +482,9 @@
 - [Coisas incríveis pelo github](https://getawesomeness.herokuapp.com/)
 
 - [Neil patel](https://neilpatel.com/br/) - Aprenda técnicas de SEO e marketing digital
+
+- [MDN web docs](https://developer.mozilla.org/en-US/) - Tutoriais e recursos gratuitos
+
+- [DEV Community](https://dev.to/)
+
+- [The Unified Modeling Language](https://www.uml-diagrams.org/) - Regras e exemplos de ideação de projetos utilizando UML
