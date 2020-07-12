@@ -488,3 +488,10 @@
 - [DEV Community](https://dev.to/)
 
 - [The Unified Modeling Language](https://www.uml-diagrams.org/) - Regras e exemplos de ideação de projetos utilizando UML
+
+## Plataformas de Exercícios
+- [URI Online Judge](www.urionlinejudge.com.br) - Plataforma brasileira
+
+- [Toph](https://toph.co/)
+
+- [Dev Skill](https://devskill.com/)
