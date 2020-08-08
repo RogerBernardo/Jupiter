@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  text-decoration: none;
+  border: 0;
+  box-sizing: border-box;
+  
+  font-family: "Source Sans Pro", sans-serif;
+  color: var(--color-text-paragraph);
+}
+
+:root {
+  --color-primary: #c158dc;
+  --color-primary-dark: #8e24aa;
+  --color-secundary: #09e3b4;
+  --color-black: #212121;
+  --color-black-light: #333;
+  --color-text-title: #fff;
+  --color-text-paragraph: #e5e5e5;
+  font-size: 100%;
+}
+
+body,
+#root {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--color-black);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+nav {
+  color: var(--color-text-title);
+  font-family: "Cabin", sans-serif;  
+}
+
+#logo-drawer{
+  width: 32px;
+  height: auto;
+  margin: 16px 16px;
+}
+
