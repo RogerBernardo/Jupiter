@@ -154,6 +154,11 @@
           "description": "Testes unitários de soluções regex"
         },
         {
+          "title": "I Hate Regex",
+          "url": "https://ihateregex.io/",
+          "description": "Pesquise soluções REGEX prontas para uso"
+        },
+        {
           "title": "Lorempixel",
           "url": "http://lorempixel.com.br/",
           "description": "Gerador de imagens"
@@ -478,6 +483,11 @@
           "title": "UX Movement",
           "url": "https://uxmovement.com/",
           "description": "Artigos de design da experiência do usuário"
+        },
+        {
+          "title": "Shape Divider",
+          "url": "https://www.shapedivider.app/",
+          "description": "Divisores de forma personalizada"
         }
       ]
     },
@@ -536,6 +546,11 @@
         {
           "title": "Humaasns",
           "url": "https://www.humaaans.com/",
+          "description": "Ilustrações de humanóides personalizáveis"
+        },
+        {
+          "title": "IRA Design Gallery",
+          "url": "https://iradesign.io/gallery/illustrations",
           "description": "Ilustrações de humanóides personalizáveis"
         }
       ]
