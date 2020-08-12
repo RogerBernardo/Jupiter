@@ -386,6 +386,11 @@
           "title": "Uber Baseweb",
           "url": "https://github.com/uber/baseweb",
           "description": "A React Component library implementing the Base design language"
+        },
+        {
+          "title": "Chakra UI",
+          "description": "Simple, Modular & Accessible UI Components for your React Applications",
+          "url": "https://github.com/chakra-ui/chakra-ui"
         }
       ]
     },
@@ -544,7 +549,7 @@
           "url": "https://thenounproject.com/"
         },
         {
-          "title": "Humaasns",
+          "title": "Humaaans",
           "url": "https://www.humaaans.com/",
           "description": "Ilustrações de humanóides personalizáveis"
         },
