@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Atena/static/css/main.a23adf24.chunk.css",
-    "main.js": "/Atena/static/js/main.4d3b347d.chunk.js",
-    "main.js.map": "/Atena/static/js/main.4d3b347d.chunk.js.map",
+    "main.js": "/Atena/static/js/main.d5bedd08.chunk.js",
+    "main.js.map": "/Atena/static/js/main.d5bedd08.chunk.js.map",
     "runtime-main.js": "/Atena/static/js/runtime-main.4c4d6efa.js",
     "runtime-main.js.map": "/Atena/static/js/runtime-main.4c4d6efa.js.map",
     "static/js/2.bdd9e563.chunk.js": "/Atena/static/js/2.bdd9e563.chunk.js",
     "static/js/2.bdd9e563.chunk.js.map": "/Atena/static/js/2.bdd9e563.chunk.js.map",
     "index.html": "/Atena/index.html",
-    "precache-manifest.abb67dd0821317290ba59074fb73c27a.js": "/Atena/precache-manifest.abb67dd0821317290ba59074fb73c27a.js",
+    "precache-manifest.73e02cbd4f89dee1a020e0d1e34ddefb.js": "/Atena/precache-manifest.73e02cbd4f89dee1a020e0d1e34ddefb.js",
     "service-worker.js": "/Atena/service-worker.js",
     "static/css/main.a23adf24.chunk.css.map": "/Atena/static/css/main.a23adf24.chunk.css.map",
     "static/js/2.bdd9e563.chunk.js.LICENSE.txt": "/Atena/static/js/2.bdd9e563.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4c4d6efa.js",
     "static/js/2.bdd9e563.chunk.js",
     "static/css/main.a23adf24.chunk.css",
-    "static/js/main.4d3b347d.chunk.js"
+    "static/js/main.d5bedd08.chunk.js"
   ]
 }
